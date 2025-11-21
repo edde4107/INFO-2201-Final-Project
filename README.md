@@ -14,4 +14,6 @@ Areas that were red on the map were marked as 'hazardous' but these red district
 
 Residents of red zones were denied mortgages, loans, and insurance. This in practice led to poor communities getting poorer losing critical funding and decreasing property values. (below is a visual aid as to what redlining looked like)
 
-Redlining was made illegal by the Fair Housing Act of 1968, but just because it is now illegal doesnt mean there were not long lasting impacts of redlining and little reperation paid. Redlining's legacy persists across the country but this project will review Denver's historically redlined districts and see if / how much the affects of redlining are still felt today.
+Redlining was made illegal by the Fair Housing Act of 1968, but just because it is now illegal doesnt mean there were not long lasting impacts of redlining and little reperation paid. 
+
+Redlining's legacy persists across the country but this project will review Denver's historically redlined districts and see if / how much the affects of redlining are still felt today.
